@@ -30,6 +30,8 @@ PRODUCT_PACKAGES += \
     Music \
     preinstalled-packages-platform-handheld-product.xml \
     QuickSearchBox \
+    ThemePicker \
+    ThemesStub \
     SettingsIntelligence \
     frameworks-base-overlays
 
